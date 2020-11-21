@@ -1,0 +1,23 @@
+body{
+  background-color: #d9ecf2;
+  margin-left: 10%;
+}
+h1{
+  color: #1aa6b7;
+  font-family: Times New Roman;
+}
+h3{
+  color: #1aa6b7;
+  font-family: Times New Roman;
+}
+p,table,ul,ol,figure{
+  color: #707070;
+  font-family: Lucida Console;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #f56a79;
+  border-width: 10px;
+  width: 50%
+}
